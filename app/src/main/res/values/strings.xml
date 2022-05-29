@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Yogaaa</string>
+    <string name="todo">TODO</string>
+    <string name="dhanur">Dhanurasana</string>
+    <string name="nauka">Naukasana</string>
+    <string name="vakrasana">Vakrasana</string>
+    <string name="dhanurasana">Dhanurasana</string>
+    <string name="image">Image</string>
+    <string name="heading">Heading</string>
+    <string name="textvakra">Vakrasana makes the body flexible and reduces belly fat and also helps in improving digestive juices</string>
+    <string name="vakra">Vakrasana</string>
+    <string name="content">Content</string>
+    <string name="naukasana">Naukasana</string>
+    <string name="dhanurasan">Dhanurasana</string>
+    <string name="bhuj">Bhujangasana</string>
+    <string name="vakratext">Vakrasana makes the body flexible and reduces belly fat and also helps in improving digestive juices.It regulates the secretion of digestive juices, improving digestion and combating constipation. It massages the abdominal organs and helps reduce belly fat. It makes the spine flexible. It strengthens the back and helps with chronic back and shoulder pain.</string>
+    <string name="textnauk">Naukasana helps in regulating blood flow at sugar level and strengthens the abdominal muscles. It improves the health of all organs in the abdomen, especially the liver, pancreas and kidneys and also strengthens the muscles of the arms, thighs and shoulders.</string>
+    <string name="textdhanur">Stretches the abdominal muscles and improves the digestion process. Improves the strength in your ankles, thighs, chest, neck, and shoulders. Helps tone your abdominal region. Tones your back and improves spinal flexibility. Helps open up your chest region and facilitates better breathing. Alleviates neck strain and helps cure neck pain</string>
+    <string name="textbhuj">It is known as the corrector of the curvature and makes the spine flexible. Stretches chest and lungs, shoulders, and abdomen, Stimulates abdominal organs, Helps relieve stress and fatigue, Opens the heart and lungs, Soothes sciatica, Therapeutic for asthma, and The male and female reproductive system improves, With the increased blood circulation your face gets a radiant look</string>
+</resources>
